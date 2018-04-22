@@ -1,2 +1,6 @@
 # javapocs
-Java proof of concepts on latest technologies
+Java Examples
+Java String Examples
+Java Security Examples
+Java Algorithms
+Java Design Patterns
